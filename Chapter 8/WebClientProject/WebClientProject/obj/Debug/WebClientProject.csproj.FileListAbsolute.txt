@@ -1,0 +1,13 @@
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 8\WebClientProject\WebClientProject\Bin\Debug\ApplicationIcon.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 8\WebClientProject\WebClientProject\Bin\Debug\Background.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 8\WebClientProject\WebClientProject\Bin\Debug\WebClientProject.dll
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 8\WebClientProject\WebClientProject\Bin\Debug\WebClientProject.pdb
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 8\WebClientProject\WebClientProject\Bin\Debug\AppManifest.xaml
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 8\WebClientProject\WebClientProject\Bin\Debug\WebClientProject.xap
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 8\WebClientProject\WebClientProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 8\WebClientProject\WebClientProject\obj\Debug\App.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 8\WebClientProject\WebClientProject\obj\Debug\MainPage.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 8\WebClientProject\WebClientProject\obj\Debug\WebClientProject.g.resources
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 8\WebClientProject\WebClientProject\obj\Debug\WebClientProject.dll
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 8\WebClientProject\WebClientProject\obj\Debug\WebClientProject.pdb
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 8\WebClientProject\WebClientProject\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,13 @@
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\DataBindingToSampleCode\DataBindingToSampleCode\Bin\Debug\ApplicationIcon.png
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\DataBindingToSampleCode\DataBindingToSampleCode\Bin\Debug\Background.png
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\DataBindingToSampleCode\DataBindingToSampleCode\Bin\Debug\DataBindingToSampleCode.dll
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\DataBindingToSampleCode\DataBindingToSampleCode\Bin\Debug\DataBindingToSampleCode.pdb
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\DataBindingToSampleCode\DataBindingToSampleCode\Bin\Debug\AppManifest.xaml
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\DataBindingToSampleCode\DataBindingToSampleCode\Bin\Debug\DataBindingToSampleCode.xap
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\DataBindingToSampleCode\DataBindingToSampleCode\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\DataBindingToSampleCode\DataBindingToSampleCode\obj\Debug\App.g.cs
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\DataBindingToSampleCode\DataBindingToSampleCode\obj\Debug\MainPage.g.cs
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\DataBindingToSampleCode\DataBindingToSampleCode\obj\Debug\DataBindingToSampleCode.g.resources
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\DataBindingToSampleCode\DataBindingToSampleCode\obj\Debug\DataBindingToSampleCode.dll
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\DataBindingToSampleCode\DataBindingToSampleCode\obj\Debug\DataBindingToSampleCode.pdb
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\DataBindingToSampleCode\DataBindingToSampleCode\obj\Debug\XapCacheFile.xml

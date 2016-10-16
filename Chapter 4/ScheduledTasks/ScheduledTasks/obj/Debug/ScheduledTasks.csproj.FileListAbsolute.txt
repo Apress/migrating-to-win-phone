@@ -1,0 +1,15 @@
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\ScheduledTasks\ScheduledTasks\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\ScheduledTasks\ScheduledTasks\obj\Debug\App.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\ScheduledTasks\ScheduledTasks\obj\Debug\MainPage.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\ScheduledTasks\ScheduledTasks\obj\Debug\ScheduledTasks.g.resources
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\ScheduledTasks\ScheduledTasks\Bin\Debug\ApplicationIcon.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\ScheduledTasks\ScheduledTasks\Bin\Debug\Background.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\ScheduledTasks\ScheduledTasks\Bin\Debug\ScheduledTasks.dll
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\ScheduledTasks\ScheduledTasks\Bin\Debug\ScheduledTasks.pdb
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\ScheduledTasks\ScheduledTasks\Bin\Debug\AppManifest.xaml
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\ScheduledTasks\ScheduledTasks\Bin\Debug\ScheduledTasks.xap
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\ScheduledTasks\ScheduledTasks\Bin\Debug\ScheduledTaskAgent1.dll
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\ScheduledTasks\ScheduledTasks\Bin\Debug\ScheduledTaskAgent1.pdb
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\ScheduledTasks\ScheduledTasks\obj\Debug\ScheduledTasks.dll
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\ScheduledTasks\ScheduledTasks\obj\Debug\ScheduledTasks.pdb
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\ScheduledTasks\ScheduledTasks\obj\Debug\XapCacheFile.xml

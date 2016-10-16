@@ -1,0 +1,108 @@
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Chapter 6\MotionSample\MotionSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Chapter 6\MotionSample\MotionSample\obj\Debug\App.g.i.cs
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Chapter 6\MotionSample\MotionSample\obj\Debug\Accelerometer.g.i.cs
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Chapter 6\MotionSample\MotionSample\obj\Debug\MainPage.g.i.cs
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Chapter 6\MotionSample\MotionSample\obj\Debug\MotionSample.g.resources
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Chapter 6\MotionSample\MotionSample\Bin\Debug\ApplicationIcon.png
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Chapter 6\MotionSample\MotionSample\Bin\Debug\Background.png
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Chapter 6\MotionSample\MotionSample\Bin\Debug\MotionSample.dll
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Chapter 6\MotionSample\MotionSample\Bin\Debug\MotionSample.pdb
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Chapter 6\MotionSample\MotionSample\Bin\Debug\AppManifest.xaml
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Chapter 6\MotionSample\MotionSample\Bin\Debug\MotionSample.xap
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Chapter 6\MotionSample\MotionSample\obj\Debug\Location.g.i.cs
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Chapter 6\MotionSample\MotionSample\obj\Debug\MotionSample.dll
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Chapter 6\MotionSample\MotionSample\obj\Debug\MotionSample.pdb
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Chapter 6\MotionSample\MotionSample\obj\Debug\XapCacheFile.xml
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Chapter 6\MotionSample\MotionSample\obj\Debug\Gyro.g.i.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\Bin\Debug\ApplicationIcon.png
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\Bin\Debug\Background.png
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\Bin\Debug\MotionSample.dll
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\Bin\Debug\MotionSample.pdb
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\obj\Debug\App.g.i.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\obj\Debug\Gyro.g.i.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\obj\Debug\Location.g.i.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\obj\Debug\MainPage.g.i.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\obj\Debug\MotionSample.g.resources
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\obj\Debug\MotionSample.dll
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\obj\Debug\MotionSample.pdb
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\Bin\Debug\AppManifest.xaml
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\Bin\Debug\MotionSample.xap
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\obj\Debug\XapCacheFile.xml
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\obj\Debug\MotionAPI.g.i.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\obj\Debug\CompassSensor.g.i.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\obj\Debug\AccelerometerSensor.g.i.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\Bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\obj\Debug\RawCamera.g.i.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\Bin\Debug\icons\appbar.feature.camera.rest.png
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Chapter 6 - Launchers & Choosers\MotionSample\MotionSample\Bin\Debug\icons\appbar.feature.video.rest.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\ApplicationIcon.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\Background.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\icons\appbar.feature.camera.rest.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\icons\appbar.feature.video.rest.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\MotionSample.dll
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\MotionSample.pdb
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\AppManifest.xaml
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\MotionSample.xap
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\App.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\AccelerometerSensor.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\RawCamera.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\CompassSensor.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\Gyro.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\Location.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\MainPage.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\MotionAPI.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\MotionSample.g.resources
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\MotionSample.dll
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\MotionSample.pdb
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\XapCacheFile.xml
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\ApplicationIcon.png
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\Background.png
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\icons\appbar.feature.camera.rest.png
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\icons\appbar.feature.video.rest.png
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\MotionSample.dll
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\MotionSample.pdb
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\AppManifest.xaml
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\MotionSample.xap
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\App.g.i.cs
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\AccelerometerSensor.g.i.cs
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\RawCamera.g.i.cs
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\CompassSensor.g.i.cs
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\Gyro.g.i.cs
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\Location.g.i.cs
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\MainPage.g.i.cs
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\MotionAPI.g.i.cs
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\MotionSample.g.resources
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\MotionSample.dll
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\MotionSample.pdb
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\XapCacheFile.xml
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\ApplicationIcon.png
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\Background.png
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\icons\appbar.feature.camera.rest.png
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\icons\appbar.feature.video.rest.png
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\MotionSample.dll
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\MotionSample.pdb
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\AppManifest.xaml
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\MotionSample.xap
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\Bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\App.g.i.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\AccelerometerSensor.g.i.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\RawCamera.g.i.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\CompassSensor.g.i.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\Gyro.g.i.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\Location.g.i.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\MainPage.g.i.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\MotionAPI.g.i.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\MotionSample.g.resources
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\MotionSample.dll
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\MotionSample.pdb
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 9\MotionSample\MotionSample\obj\Debug\XapCacheFile.xml

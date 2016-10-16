@@ -1,0 +1,14 @@
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\PageState\PageState\Bin\Debug\ApplicationIcon.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\PageState\PageState\Bin\Debug\Background.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\PageState\PageState\Bin\Debug\PageState.dll
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\PageState\PageState\Bin\Debug\PageState.pdb
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\PageState\PageState\Bin\Debug\AppManifest.xaml
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\PageState\PageState\Bin\Debug\PageState.xap
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\PageState\PageState\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\PageState\PageState\obj\Debug\App.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\PageState\PageState\obj\Debug\MainPage.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\PageState\PageState\obj\Debug\PageState.g.resources
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\PageState\PageState\obj\Debug\PageState.dll
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\PageState\PageState\obj\Debug\PageState.pdb
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\PageState\PageState\obj\Debug\XapCacheFile.xml
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 4\PageState\PageState\obj\Debug\Page2.g.i.cs

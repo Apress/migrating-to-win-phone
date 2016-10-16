@@ -1,0 +1,13 @@
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBinding\DataBinding\Bin\Debug\ApplicationIcon.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBinding\DataBinding\Bin\Debug\Background.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBinding\DataBinding\Bin\Debug\DataBinding.dll
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBinding\DataBinding\Bin\Debug\DataBinding.pdb
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBinding\DataBinding\Bin\Debug\AppManifest.xaml
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBinding\DataBinding\Bin\Debug\DataBinding.xap
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBinding\DataBinding\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBinding\DataBinding\obj\Debug\App.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBinding\DataBinding\obj\Debug\MainPage.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBinding\DataBinding\obj\Debug\DataBinding.g.resources
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBinding\DataBinding\obj\Debug\DataBinding.dll
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBinding\DataBinding\obj\Debug\DataBinding.pdb
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBinding\DataBinding\obj\Debug\XapCacheFile.xml

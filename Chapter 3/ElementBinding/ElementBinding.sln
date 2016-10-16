@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementBinding", "ElementBinding\ElementBinding.csproj", "{b7372ec5-7f8a-4e71-a088-7a10dfdbf57a}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7372EC5-7F8A-4E71-A088-7A10DFDBF57A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7372EC5-7F8A-4E71-A088-7A10DFDBF57A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7372EC5-7F8A-4E71-A088-7A10DFDBF57A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B7372EC5-7F8A-4E71-A088-7A10DFDBF57A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7372EC5-7F8A-4E71-A088-7A10DFDBF57A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7372EC5-7F8A-4E71-A088-7A10DFDBF57A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

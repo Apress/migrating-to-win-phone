@@ -1,0 +1,13 @@
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\ButtonStyler\ButtonStyler\Bin\Debug\ApplicationIcon.png
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\ButtonStyler\ButtonStyler\Bin\Debug\Background.png
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\ButtonStyler\ButtonStyler\Bin\Debug\ButtonStyler.dll
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\ButtonStyler\ButtonStyler\Bin\Debug\ButtonStyler.pdb
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\ButtonStyler\ButtonStyler\Bin\Debug\AppManifest.xaml
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\ButtonStyler\ButtonStyler\Bin\Debug\ButtonStyler.xap
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\ButtonStyler\ButtonStyler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\ButtonStyler\ButtonStyler\obj\Debug\App.g.cs
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\ButtonStyler\ButtonStyler\obj\Debug\MainPage.g.cs
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\ButtonStyler\ButtonStyler\obj\Debug\ButtonStyler.g.resources
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\ButtonStyler\ButtonStyler\obj\Debug\ButtonStyler.dll
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\ButtonStyler\ButtonStyler\obj\Debug\ButtonStyler.pdb
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\ButtonStyler\ButtonStyler\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBindingToSampleCode", "DataBindingToSampleCode\DataBindingToSampleCode.csproj", "{b9cd3103-f49f-4176-b65f-cd10ea365489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9CD3103-F49F-4176-B65F-CD10EA365489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CD3103-F49F-4176-B65F-CD10EA365489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CD3103-F49F-4176-B65F-CD10EA365489}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B9CD3103-F49F-4176-B65F-CD10EA365489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CD3103-F49F-4176-B65F-CD10EA365489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9CD3103-F49F-4176-B65F-CD10EA365489}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

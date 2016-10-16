@@ -1,0 +1,16 @@
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 1\Calculator\Calculator\Bin\Debug\ApplicationIcon.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 1\Calculator\Calculator\Bin\Debug\Background.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 1\Calculator\Calculator\Bin\Debug\Calculator.dll
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 1\Calculator\Calculator\Bin\Debug\Calculator.pdb
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 1\Calculator\Calculator\Bin\Debug\AppManifest.xaml
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 1\Calculator\Calculator\Bin\Debug\Calculator.xap
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 1\Calculator\Calculator\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 1\Calculator\Calculator\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 1\Calculator\Calculator\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 1\Calculator\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 1\Calculator\Calculator\obj\Debug\App.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 1\Calculator\Calculator\obj\Debug\MainPage.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 1\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 1\Calculator\Calculator\obj\Debug\Calculator.dll
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 1\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 1\Calculator\Calculator\obj\Debug\XapCacheFile.xml

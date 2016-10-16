@@ -1,0 +1,129 @@
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\ApplicationIcon.jpg
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\Background.jpg
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\081-GPS.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\082-Location.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\appbar.basecircle.rest.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\appbar.feature.camera.rest.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\appbar.feature.email.rest.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\appbar.feature.search.rest.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\appbar.feature.video.rest.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\LaunchersAndChoosers.dll
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\LaunchersAndChoosers.pdb
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\AppManifest.xaml
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\LaunchersAndChoosers.xap
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\obj\Debug\App.g.i.cs
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\obj\Debug\MainPage.g.i.cs
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\obj\Debug\LaunchersAndChoosers.g.resources
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\obj\Debug\LaunchersAndChoosers.dll
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\obj\Debug\LaunchersAndChoosers.pdb
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\obj\Debug\XapCacheFile.xml
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\090-Eye.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\268-NumberedList.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\004-ShoppingCartAlt.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\017-ThumbsUp.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\003-ShoppingCart.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\011-Phone.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\085-Connect.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\036-SMS.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\098-ShareThis.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\099-Share.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\001-Home.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\119-Camera.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\162-Photo.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\326-Controller.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\012-MobilePhone.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\021-Email.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\105-AddUser.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\120-Music.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\LaunchersAndChoosers\LaunchersAndChoosers\Bin\Debug\icons\037-SMSAlt.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\ApplicationIcon.jpg
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\Background.jpg
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\001-Home.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\011-Phone.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\012-MobilePhone.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\021-Email.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\036-SMS.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\085-Connect.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\098-ShareThis.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\099-Share.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\105-AddUser.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\119-Camera.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\120-Music.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\162-Photo.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\326-Controller.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\037-SMSAlt.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\003-ShoppingCart.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\004-ShoppingCartAlt.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\017-ThumbsUp.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\081-GPS.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\082-Location.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\090-Eye.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\268-NumberedList.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\appbar.basecircle.rest.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\appbar.feature.camera.rest.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\appbar.feature.email.rest.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\appbar.feature.search.rest.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\appbar.feature.video.rest.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\LaunchersAndChoosers.dll
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\LaunchersAndChoosers.pdb
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\AppManifest.xaml
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\LaunchersAndChoosers.xap
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\obj\Debug\App.g.i.cs
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\obj\Debug\MainPage.g.i.cs
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\obj\Debug\LaunchersAndChoosers.g.resources
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\obj\Debug\LaunchersAndChoosers.dll
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\obj\Debug\LaunchersAndChoosers.pdb
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\obj\Debug\XapCacheFile.xml
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\020-Appointment.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\108-Group.png
+C:\Users\jblankenburg\My Projects\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\187-Arrow-Circle-R.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\ApplicationIcon.jpg
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\Background.jpg
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\001-Home.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\011-Phone.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\012-MobilePhone.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\020-Appointment.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\021-Email.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\036-SMS.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\085-Connect.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\098-ShareThis.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\099-Share.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\105-AddUser.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\108-Group.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\119-Camera.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\120-Music.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\162-Photo.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\187-Arrow-Circle-R.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\326-Controller.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\037-SMSAlt.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\003-ShoppingCart.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\004-ShoppingCartAlt.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\017-ThumbsUp.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\081-GPS.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\082-Location.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\090-Eye.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\268-NumberedList.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\appbar.basecircle.rest.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\appbar.feature.camera.rest.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\appbar.feature.email.rest.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\appbar.feature.search.rest.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\icons\appbar.feature.video.rest.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\LaunchersAndChoosers.dll
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\LaunchersAndChoosers.pdb
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\AppManifest.xaml
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\LaunchersAndChoosers.xap
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\obj\Debug\App.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\obj\Debug\MainPage.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\obj\Debug\LaunchersAndChoosers.g.resources
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\obj\Debug\LaunchersAndChoosers.dll
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\obj\Debug\LaunchersAndChoosers.pdb
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 6\Launchers and Choosers\LaunchersAndChoosers\obj\Debug\XapCacheFile.xml

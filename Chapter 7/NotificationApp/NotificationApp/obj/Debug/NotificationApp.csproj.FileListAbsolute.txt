@@ -1,0 +1,13 @@
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 7\NotificationApp\NotificationApp\Bin\Debug\ApplicationIcon.png
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 7\NotificationApp\NotificationApp\Bin\Debug\Background.png
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 7\NotificationApp\NotificationApp\Bin\Debug\NotificationApp.dll
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 7\NotificationApp\NotificationApp\Bin\Debug\NotificationApp.pdb
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 7\NotificationApp\NotificationApp\Bin\Debug\AppManifest.xaml
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 7\NotificationApp\NotificationApp\Bin\Debug\NotificationApp.xap
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 7\NotificationApp\NotificationApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 7\NotificationApp\NotificationApp\obj\Debug\App.g.i.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 7\NotificationApp\NotificationApp\obj\Debug\MainPage.g.i.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 7\NotificationApp\NotificationApp\obj\Debug\NotificationApp.g.resources
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 7\NotificationApp\NotificationApp\obj\Debug\NotificationApp.dll
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 7\NotificationApp\NotificationApp\obj\Debug\NotificationApp.pdb
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 7\NotificationApp\NotificationApp\obj\Debug\XapCacheFile.xml

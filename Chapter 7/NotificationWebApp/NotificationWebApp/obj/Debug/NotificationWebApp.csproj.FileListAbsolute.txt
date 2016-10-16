@@ -1,0 +1,5 @@
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 7\NotificationWebApp\NotificationWebApp\bin\NotificationWebApp.dll
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 7\NotificationWebApp\NotificationWebApp\bin\NotificationWebApp.pdb
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 7\NotificationWebApp\NotificationWebApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 7\NotificationWebApp\NotificationWebApp\obj\Debug\NotificationWebApp.dll
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 7\NotificationWebApp\NotificationWebApp\obj\Debug\NotificationWebApp.pdb

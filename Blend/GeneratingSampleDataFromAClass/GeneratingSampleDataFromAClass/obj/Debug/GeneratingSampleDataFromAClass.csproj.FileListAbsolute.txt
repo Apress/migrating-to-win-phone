@@ -1,0 +1,13 @@
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\GeneratingSampleDataFromAClass\GeneratingSampleDataFromAClass\Bin\Debug\ApplicationIcon.png
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\GeneratingSampleDataFromAClass\GeneratingSampleDataFromAClass\Bin\Debug\Background.png
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\GeneratingSampleDataFromAClass\GeneratingSampleDataFromAClass\Bin\Debug\GeneratingSampleDataFromAClass.dll
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\GeneratingSampleDataFromAClass\GeneratingSampleDataFromAClass\Bin\Debug\GeneratingSampleDataFromAClass.pdb
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\GeneratingSampleDataFromAClass\GeneratingSampleDataFromAClass\Bin\Debug\AppManifest.xaml
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\GeneratingSampleDataFromAClass\GeneratingSampleDataFromAClass\Bin\Debug\GeneratingSampleDataFromAClass.xap
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\GeneratingSampleDataFromAClass\GeneratingSampleDataFromAClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\GeneratingSampleDataFromAClass\GeneratingSampleDataFromAClass\obj\Debug\App.g.cs
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\GeneratingSampleDataFromAClass\GeneratingSampleDataFromAClass\obj\Debug\MainPage.g.cs
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\GeneratingSampleDataFromAClass\GeneratingSampleDataFromAClass\obj\Debug\GeneratingSampleDataFromAClass.g.resources
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\GeneratingSampleDataFromAClass\GeneratingSampleDataFromAClass\obj\Debug\GeneratingSampleDataFromAClass.dll
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\GeneratingSampleDataFromAClass\GeneratingSampleDataFromAClass\obj\Debug\GeneratingSampleDataFromAClass.pdb
+C:\Users\Jesse Liberty\Documents\My Dropbox\migrating\Code For Chapters\Blend\GeneratingSampleDataFromAClass\GeneratingSampleDataFromAClass\obj\Debug\XapCacheFile.xml

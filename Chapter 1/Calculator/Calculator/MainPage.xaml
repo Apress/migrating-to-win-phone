@@ -1,0 +1,90 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit" 
+    x:Class="Calculator.MainPage"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+        	<TextBlock x:Name="ApplicationTitle" Text="Calculator" Style="{StaticResource PhoneTextNormalStyle}"/>
+        </StackPanel>
+        <StackPanel x:Name="ContentPanel" Margin="16,0,8,0" Grid.Row="1" >
+        	<Border Margin="15,0,30,0" Background="White">
+                <TextBlock
+                    TextWrapping="Wrap"
+                    Text="{Binding DisplayNumber}"
+                    Height="58"
+                    FontSize="48"
+                    TextAlignment="Right"
+                    Foreground="{StaticResource PhoneTextBoxForegroundBrush}"
+                    FontFamily="Segoe WP Semibold" />
+            </Border>
+        	<toolkit:WrapPanel Margin="0">
+        		<Button x:Name="Clear" Content="c" Width="100" Height="100" 
+                        FontSize="48" Margin="0,0,10,0" Click="Clear_Click"/>
+        		<Button x:Name="Button01" Content="1" Width="100" Height="100" 
+                        FontSize="48" Margin="0,0,10,0" Click="NumberButton_Click"/>
+        		<Button x:Name="Button02" Content="2" Width="100" Height="100"
+                        FontSize="48" Margin="0,0,10,0" Click="NumberButton_Click"/>
+        		<Button x:Name="Button03" Content="3" Width="100" Height="100" 
+                        FontSize="48" Margin="0,0,10,0" Click="NumberButton_Click"/>
+        		<Button x:Name="Button04" Content="4" Width="100" Height="100"
+                        FontSize="48" Margin="0,0,10,0" Click="NumberButton_Click"/>
+        		<Button x:Name="Button05" Content="5" Width="100" Height="100"
+                        FontSize="48" Margin="0,0,10,0" Click="NumberButton_Click"/>
+        		<Button x:Name="Button06" Content="6" Width="100" Height="100" 
+                        FontSize="48" Margin="0,0,10,0" Click="NumberButton_Click"/>
+        		<Button x:Name="Button07" Content="7" Width="100" Height="100" 
+                        FontSize="48" Margin="0,0,10,0" Click="NumberButton_Click"/>
+        		<Button x:Name="Button08" Content="8" Width="100" Height="100" 
+                        FontSize="48" Margin="0,0,10,0" Click="NumberButton_Click"/>
+        		<Button x:Name="Button09" Content="9" Width="100" Height="100"
+                        FontSize="48" Margin="0,0,10,0" Click="NumberButton_Click"/>
+        		<Button x:Name="Button0" Content="0" Width="210" Height="100"
+                        FontSize="48" Margin="0,0,10,0" Click="NumberButton_Click"/>
+        		<Button x:Name="Add" Content="+" Width="100" Height="100"
+                        FontSize="48" Margin="0,0,10,0" Click="Add_Click"/>
+        		<Button x:Name="Subtract" Content="-" Width="100" Height="100"
+                        FontSize="48" Margin="0,0,10,0" Click="Subtract_Click"/>
+        		<Button x:Name="Multiply" Content="X" Width="100" Height="100"
+                        FontSize="48" Margin="0,0,10,0" Click="Multiply_Click"/>
+        		<Button x:Name="Divide" Content="/" Width="100" Height="100"
+                        FontSize="48" Margin="0,0,10,0" Click="Divide_Click"/>
+        		<Button x:Name="Equals" Content="=" Width="210" Height="100"
+                        FontSize="48" Margin="0,0,10,0" Click="Equals_Click"/>
+        	</toolkit:WrapPanel>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

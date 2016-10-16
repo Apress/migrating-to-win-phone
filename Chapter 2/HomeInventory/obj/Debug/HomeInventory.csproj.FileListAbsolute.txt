@@ -1,0 +1,102 @@
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\Bin\Debug\ApplicationIcon.jpg
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\Bin\Debug\Background.jpg
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\Bin\Debug\HomeInventory.dll
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\Bin\Debug\HomeInventory.pdb
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\Bin\Debug\AppManifest.xaml
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\Bin\Debug\HomeInventory.xap
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\obj\Debug\App.g.i.cs
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\obj\Debug\MainPage.g.i.cs
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\obj\Debug\HomeInventory.g.resources
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\obj\Debug\HomeInventory.dll
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\obj\Debug\HomeInventory.pdb
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\obj\Debug\XapCacheFile.xml
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\Bin\Debug\images\warehouse.jpg
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\obj\Debug\Categories.g.i.cs
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\obj\Debug\Photos.g.i.cs
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\obj\Debug\Rooms.g.i.cs
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\Bin\Debug\icons\appbar.add.rest.png
+C:\Users\jblankenburg\Desktop\Migrating to Windows Phone\Chapter 2\HomeInventory\HomeInventory\Bin\Debug\icons\appbar.delete.rest.png
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\ApplicationIcon.jpg
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\Background.jpg
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\icons\appbar.add.rest.png
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\icons\appbar.delete.rest.png
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\images\warehouse.jpg
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\HomeInventory.dll
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\HomeInventory.pdb
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\AppManifest.xaml
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\HomeInventory.xap
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\obj\Debug\App.g.i.cs
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\obj\Debug\Categories.g.i.cs
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\obj\Debug\MainPage.g.i.cs
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\obj\Debug\Photos.g.i.cs
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\obj\Debug\Rooms.g.i.cs
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\obj\Debug\HomeInventory.g.resources
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\obj\Debug\HomeInventory.dll
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\obj\Debug\HomeInventory.pdb
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\obj\Debug\XapCacheFile.xml
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\images\bag.jpg
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\images\nook.jpg
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\images\clicker.jpg
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\images\headphones.jpg
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\images\laptop.jpg
+C:\Users\jeblank.NORTHAMERICA\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\images\mifi.png
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\ApplicationIcon.jpg
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\Background.jpg
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\icons\appbar.add.rest.png
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\icons\appbar.delete.rest.png
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\images\bag.jpg
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\images\nook.jpg
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\images\clicker.jpg
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\images\headphones.jpg
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\images\laptop.jpg
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\images\mifi.png
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\images\warehouse.jpg
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\HomeInventory.dll
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\HomeInventory.pdb
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\AppManifest.xaml
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\HomeInventory.xap
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\obj\Debug\App.g.i.cs
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\obj\Debug\Categories.g.i.cs
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\obj\Debug\MainPage.g.i.cs
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\obj\Debug\Photos.g.i.cs
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\obj\Debug\Rooms.g.i.cs
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\obj\Debug\HomeInventory.g.resources
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\obj\Debug\HomeInventory.dll
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\obj\Debug\HomeInventory.pdb
+C:\Users\jblankenburg\Dropbox\Jeff\Projects\HomeInventory\HomeInventory\obj\Debug\XapCacheFile.xml
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\Bin\Debug\ApplicationIcon.jpg
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\Bin\Debug\Background.jpg
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\Bin\Debug\icons\appbar.add.rest.png
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\Bin\Debug\icons\appbar.delete.rest.png
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\Bin\Debug\images\bag.jpg
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\Bin\Debug\images\nook.jpg
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\Bin\Debug\images\clicker.jpg
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\Bin\Debug\images\headphones.jpg
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\Bin\Debug\images\laptop.jpg
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\Bin\Debug\images\mifi.png
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\Bin\Debug\images\warehouse.jpg
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\Bin\Debug\HomeInventory.dll
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\Bin\Debug\HomeInventory.pdb
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\Bin\Debug\AppManifest.xaml
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\Bin\Debug\HomeInventory.xap
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\obj\Debug\HomeInventory.g.resources
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\obj\Debug\HomeInventory.dll
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\obj\Debug\HomeInventory.pdb
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\obj\Debug\XapCacheFile.xml
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\obj\Debug\App.g.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\obj\Debug\Categories.g.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\obj\Debug\MainPage.g.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\obj\Debug\Photos.g.cs
+C:\Users\jblankenburg\Dropbox\Migrating to Windows Phone 7\Code For Chapters\Chapter 2\HomeInventory\obj\Debug\Rooms.g.cs

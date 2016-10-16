@@ -1,0 +1,14 @@
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBoundApp\DataBoundApp\Bin\Debug\ApplicationIcon.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBoundApp\DataBoundApp\Bin\Debug\Background.png
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBoundApp\DataBoundApp\Bin\Debug\DataBoundApp.dll
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBoundApp\DataBoundApp\Bin\Debug\DataBoundApp.pdb
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBoundApp\DataBoundApp\Bin\Debug\AppManifest.xaml
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBoundApp\DataBoundApp\Bin\Debug\DataBoundApp.xap
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBoundApp\DataBoundApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBoundApp\DataBoundApp\obj\Debug\App.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBoundApp\DataBoundApp\obj\Debug\DetailsPage.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBoundApp\DataBoundApp\obj\Debug\MainPage.g.i.cs
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBoundApp\DataBoundApp\obj\Debug\DataBoundApp.g.resources
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBoundApp\DataBoundApp\obj\Debug\DataBoundApp.dll
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBoundApp\DataBoundApp\obj\Debug\DataBoundApp.pdb
+C:\Users\Jesse\Documents\My Dropbox\Migrating\Code For Chapters\Chapter 3\DataBoundApp\DataBoundApp\obj\Debug\XapCacheFile.xml
